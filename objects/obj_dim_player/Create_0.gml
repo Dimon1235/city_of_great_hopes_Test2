@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+event_inherited();
 walkspd = 10;
 runspd  = 40;
 lastmove = 0;

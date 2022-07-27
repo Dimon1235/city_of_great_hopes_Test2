@@ -15,6 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_woi_invisible_wall2","path":"objects/obj_woi_invisible_wall2/obj_woi_invisible_wall2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.068,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":754.0,"y":194.0,"resourceVersion":"1.0","name":"inst_438B37B5","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_woi_invisible_wall2","path":"objects/obj_woi_invisible_wall2/obj_woi_invisible_wall2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.068,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":763.0,"y":216.0,"resourceVersion":"1.0","name":"inst_B733B","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_woi_invisible_meriia_back","path":"objects/obj_woi_invisible_meriia_back/obj_woi_invisible_meriia_back.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":745.0,"y":129.0,"resourceVersion":"1.0","name":"inst_42733BF4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_woi_invisible_police_main","path":"objects/obj_woi_invisible_police_main/obj_woi_invisible_police_main.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1129.0,"y":175.0,"resourceVersion":"1.0","name":"inst_1F6E2959","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_woi_invisible_dumb_p","path":"objects/obj_woi_invisible_dumb_p/obj_woi_invisible_dumb_p.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1317.0,"y":259.0,"resourceVersion":"1.0","name":"inst_105B5B13","tags":[],"resourceType":"GMRInstance",},
@@ -55,6 +56,7 @@
     {"name":"inst_121685A4","path":"rooms/rm_police/rm_police.yy",},
     {"name":"inst_36CF9879","path":"rooms/rm_police/rm_police.yy",},
     {"name":"inst_6002B017","path":"rooms/rm_police/rm_police.yy",},
+    {"name":"inst_B733B","path":"rooms/rm_police/rm_police.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
