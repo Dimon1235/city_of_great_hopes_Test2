@@ -19,8 +19,6 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_invisiblewall","path":"objects/obj_invisiblewall/obj_invisiblewall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_woi_invisible_wall","path":"objects/obj_woi_invisible_wall/obj_woi_invisible_wall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_woi_invisible_bush","path":"objects/obj_woi_invisible_bush/obj_woi_invisible_bush.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_woi_invisible_curb","path":"objects/obj_woi_invisible_curb/obj_woi_invisible_curb.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_woi_invisible_dumb","path":"objects/obj_woi_invisible_dumb/obj_woi_invisible_dumb.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},

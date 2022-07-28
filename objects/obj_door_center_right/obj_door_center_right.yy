@@ -1,7 +1,7 @@
 {
   "spriteId": null,
-  "solid": true,
-  "visible": true,
+  "solid": false,
+  "visible": false,
   "managed": true,
   "spriteMaskId": {
     "name": "spr_woi_invisible_wall",
@@ -18,13 +18,13 @@
   "physicsLinearDamping": 0.1,
   "physicsAngularDamping": 0.1,
   "physicsFriction": 0.2,
-  "physicsStartAwake": true,
+  "physicsStartAwake": false,
   "physicsKinematic": false,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
-    {"x":32.0,"y":0.0,},
-    {"x":32.0,"y":32.0,},
-    {"x":0.0,"y":32.0,},
+    {"x":67.0,"y":0.0,},
+    {"x":67.0,"y":20.0,},
+    {"x":0.0,"y":20.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
@@ -38,7 +38,7 @@
     "path": "folders/Objects/Center.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_door_police50",
+  "name": "obj_door_center_right",
   "tags": [],
   "resourceType": "GMObject",
 }
