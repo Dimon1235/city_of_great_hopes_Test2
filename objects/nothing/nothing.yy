@@ -1,15 +1,12 @@
 {
-  "spriteId": {
-    "name": "sp_doc_blik",
-    "path": "sprites/sp_doc_blik/sp_doc_blik.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
-  "physicsObject": true,
-  "physicsSensor": true,
+  "physicsObject": false,
+  "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
   "physicsDensity": 0.5,
@@ -19,15 +16,8 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
-  ],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "physicsShapePoints": [],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -35,7 +25,7 @@
     "path": "folders/Objects/Other.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ob_doc_blik",
+  "name": "nothing",
   "tags": [],
   "resourceType": "GMObject",
 }

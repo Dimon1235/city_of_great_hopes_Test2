@@ -5,7 +5,6 @@
   },
   "solid": true,
   "visible": true,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -32,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Other",
+    "path": "folders/Objects/Other.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_woi_invisible_lamp",

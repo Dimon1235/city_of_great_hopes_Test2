@@ -5,7 +5,6 @@
   },
   "solid": true,
   "visible": true,
-  "managed": true,
   "spriteMaskId": {
     "name": "spr_meriia",
     "path": "sprites/spr_meriia/spr_meriia.yy",
@@ -33,8 +32,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Other",
+    "path": "folders/Objects/Other.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_woi_invisible_wall3",
